@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nicolas/Documents/EdVai/tpFinal/PartA/mlruns/847953370237250792/f731f0bfe961487e93012ed8cd7e837e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847953370237250792'
+lifecycle_stage: active
+run_id: f731f0bfe961487e93012ed8cd7e837e
+run_name: judicious-shad-749
+run_uuid: f731f0bfe961487e93012ed8cd7e837e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695088004300
+status: 1
+tags: []
+user_id: nicolas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nicolas/Documents/EdVai/tpFinal/PartA/mlruns/847953370237250792/3be78fdf44f0434f8dc3054a9ecefcc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847953370237250792'
+lifecycle_stage: active
+run_id: 3be78fdf44f0434f8dc3054a9ecefcc3
+run_name: shivering-zebra-459
+run_uuid: 3be78fdf44f0434f8dc3054a9ecefcc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695039294597
+status: 1
+tags: []
+user_id: nicolas

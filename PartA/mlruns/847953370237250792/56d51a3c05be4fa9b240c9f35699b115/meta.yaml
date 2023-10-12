@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nicolas/Documents/EdVai/tpFinal/PartA/mlruns/847953370237250792/56d51a3c05be4fa9b240c9f35699b115/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847953370237250792'
+lifecycle_stage: active
+run_id: 56d51a3c05be4fa9b240c9f35699b115
+run_name: beautiful-mare-652
+run_uuid: 56d51a3c05be4fa9b240c9f35699b115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695046839812
+status: 1
+tags: []
+user_id: nicolas
